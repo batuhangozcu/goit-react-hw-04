@@ -1,0 +1,10 @@
+.images {
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid skyblue;
+  cursor: zoom-in;
+}
+
+.images:hover {
+  border-color: blueviolet;
+}
